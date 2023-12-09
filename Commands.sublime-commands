@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "Conan: Install Dependencies...",
+		"command": "conantools_install_dependencies"
+	},
+]

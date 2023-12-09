@@ -1,0 +1,15 @@
+{
+	// Conan executable
+	"conan": "",
+	// Conan profile, see '--profile' description
+	"profile": "default",
+	// build option, see '--build' description
+	"build_option": "missing",
+	// build type, e.g.: Debug, Release
+	"build_type": "",
+	// build prefix
+	// set output folder to $(workspace)/prefix
+	"build_prefix": "build",
+	// build generator
+	"generator": "",
+}
